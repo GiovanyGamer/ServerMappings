@@ -14,6 +14,13 @@
         ]
     },
     {
+        "id": "kultpvp",
+        "name": "KultPvP Network",
+        "addresses": [
+            "kultpvp.com"
+        ]
+    },
+    {
         "id": "crackpixel",
         "name": "Crackpixel Network",
         "addresses": [
